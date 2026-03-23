@@ -3,4 +3,4 @@ server:
 spring:
   data:
     mongodb:
-      uri: mongodb://localhost:27017/helpvoice
+      uri: mongodb+srv://viji38068_db_user:viji212225@cluster0.1zsdeho.mongodb.net/helpvoice?retryWrites=true&w=majority&appName=Cluster0
