@@ -1,0 +1,13 @@
+**/*.class
+**/target/
+**/target/**
+!.mvn/wrapper/maven-wrapper.jar
+**/.idea/
+**/.vscode/
+**/node_modules/
+dist/
+.DS_Store
+.env
+*.log
+backend/target/
+
